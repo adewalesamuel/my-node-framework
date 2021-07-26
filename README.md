@@ -1,2 +1,2 @@
 # my-node-framework
-Petit framwork sans librairie
+Petit framwork node sans librairies. Utilisez le comme vous le voulez. Vous pouvez aussi apporter des modifications que vous juguez neccessaires.
