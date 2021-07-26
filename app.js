@@ -114,9 +114,10 @@ App.prototype.routesControllerManager = function(request, response, self) {
         
     if (self.status !== 200) {
         response.writeHead(self.status);
-        if (self.status === 500)
+        if (self.status === 500) {
             self.logActivity(request, "error")
             response.write(self.error.message)
+        }
         response.end();
     }
         
