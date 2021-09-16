@@ -1,6 +1,6 @@
 const VARS = {
     'ROOT_DIR': process.cwd(),
-    'PORT': 8080,
+    'PORT': process.env.PORT ?? 8080,
     'LOG_DIR': `${process.cwd()}/logs`
 }
 
