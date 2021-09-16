@@ -1,0 +1,11 @@
+20/07/2021 à 21:06:18  curl/7.75.0 /users/ GET
+20/07/2021 à 21:06:19  curl/7.75.0 /users/ GET
+20/07/2021 à 21:06:20  curl/7.75.0 /users/ GET
+20/07/2021 à 21:06:23  curl/7.75.0 /users/55 GET
+13/08/2021 à 14:27:52  curl/7.75.0 / GET
+13/08/2021 à 14:27:59  curl/7.75.0 / GET
+13/08/2021 à 14:40:08  curl/7.75.0 / GET
+13/08/2021 à 14:40:12  curl/7.75.0 / GET
+13/08/2021 à 14:40:21  curl/7.75.0 / GET
+13/08/2021 à 14:41:16  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 / GET
+13/08/2021 à 14:41:19  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 /favicon.ico GET

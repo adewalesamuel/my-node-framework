@@ -1,0 +1,24 @@
+ERROR: 20/07/2021 à 21:06:18  curl/7.75.0 /users/ GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)20/07/2021 à 21:06:18  curl/7.75.0 /users/ GET
+ERROR: 20/07/2021 à 21:06:19  curl/7.75.0 /users/ GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)20/07/2021 à 21:06:19  curl/7.75.0 /users/ GET
+ERROR: 20/07/2021 à 21:06:20  curl/7.75.0 /users/ GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\node_project\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)20/07/2021 à 21:06:20  curl/7.75.0 /users/ GET
