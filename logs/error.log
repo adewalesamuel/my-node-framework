@@ -22,3 +22,62 @@ ReferenceError: sfsfsf is not defined
     at Server.emit (events.js:315:20)
     at parserOnIncoming (_http_server.js:874:12)
     at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)20/07/2021 à 21:06:20  curl/7.75.0 /users/ GET
+ERROR: 16/09/2021 à 18:23:46  curl/7.75.0 / GET
+Error: ENOENT: no such file or directory, stat 'C:/Users/EPISTROPHE/Downloads/victoria-kubiaki-t0Aio60jD4Q-unsplash.jpg'
+    at Object.statSync (fs.js:1086:3)
+    at App.index [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\root\index.js:8:45)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:23:46  curl/7.75.0 / GET
+ERROR: 16/09/2021 à 18:23:57  curl/7.75.0 / GET
+Error: ENOENT: no such file or directory, stat 'C:/Users/EPISTROPHE/Downloads/victoria-kubiaki-t0Aio60jD4Q-unsplash.jpg'
+    at Object.statSync (fs.js:1086:3)
+    at App.index [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\root\index.js:8:45)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:23:57  curl/7.75.0 / GET
+ERROR: 16/09/2021 à 18:24:18  curl/7.75.0 / GET
+Error: ENOENT: no such file or directory, stat 'C:/Users/EPISTROPHE/Downloads/victoria-kubiaki-t0Aio60jD4Q-unsplash.jpg'
+    at Object.statSync (fs.js:1086:3)
+    at App.index [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\root\index.js:8:45)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:24:18  curl/7.75.0 / GET
+ERROR: 16/09/2021 à 18:24:36  curl/7.75.0 /users GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:24:36  curl/7.75.0 /users GET
+ERROR: 16/09/2021 à 18:24:41  curl/7.75.0 /users GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:24:41  curl/7.75.0 /users GET
+ERROR: 16/09/2021 à 18:28:16  curl/7.75.0 /users GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:28:16  curl/7.75.0 /users GET
+ERROR: 16/09/2021 à 18:30:34  curl/7.75.0 /users GET
+ReferenceError: sfsfsf is not defined
+    at App.testUser [as activeController] (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\controllers\user\testUser.js:4:20)
+    at App.routesControllerManager (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\app.js:98:26)
+    at Server.<anonymous> (C:\Users\EPISTROPHE\Desktop\Samuel\Code\my-node-framework\server.js:18:9)
+    at Server.emit (events.js:315:20)
+    at parserOnIncoming (_http_server.js:874:12)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)16/09/2021 à 18:30:34  curl/7.75.0 /users GET

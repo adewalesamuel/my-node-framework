@@ -9,3 +9,14 @@
 13/08/2021 à 14:40:21  curl/7.75.0 / GET
 13/08/2021 à 14:41:16  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 / GET
 13/08/2021 à 14:41:19  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 /favicon.ico GET
+16/09/2021 à 18:23:46  curl/7.75.0 / GET
+16/09/2021 à 18:23:57  curl/7.75.0 / GET
+16/09/2021 à 18:24:18  curl/7.75.0 / GET
+16/09/2021 à 18:24:36  curl/7.75.0 /users GET
+16/09/2021 à 18:24:41  curl/7.75.0 /users GET
+16/09/2021 à 18:28:12  curl/7.75.0 / GET
+16/09/2021 à 18:28:16  curl/7.75.0 /users GET
+16/09/2021 à 18:30:21  curl/7.75.0 /users/1 GET
+16/09/2021 à 18:30:26  curl/7.75.0 /users/1/orders GET
+16/09/2021 à 18:30:34  curl/7.75.0 /users GET
+16/09/2021 à 18:34:51  curl/7.75.0 /users GET

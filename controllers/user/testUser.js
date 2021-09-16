@@ -1,7 +1,11 @@
 const testUser = (request, response) => {
-    response.setHeader('Content-type', 'text/plain');
+    const userData = [
+	{name: "Samuel Adewale", email: "samroberval@gmail.com"},
+	{name: "Daniel Jackob", email: "danieljackob@gmail.com"}
+    ]
+    response.setHeader('Content-type', 'application/json');
     
-    response.write(sfsfsf);
+    response.write(JSON.stringify(userData));
     response.end();
 }
 
