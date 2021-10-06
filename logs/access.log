@@ -20,3 +20,7 @@
 16/09/2021 à 18:30:26  curl/7.75.0 /users/1/orders GET
 16/09/2021 à 18:30:34  curl/7.75.0 /users GET
 16/09/2021 à 18:34:51  curl/7.75.0 /users GET
+06/10/2021 à 10:13:17  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 / GET
+06/10/2021 à 10:13:17  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 /favicon.ico GET
+06/10/2021 à 10:14:38  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 /users GET
+06/10/2021 à 10:14:42  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 /users/1 GET
