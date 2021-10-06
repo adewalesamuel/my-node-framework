@@ -1,5 +1,5 @@
 const showUser = (request, response) => {
-    response.setHeader('Content-type', 'applition/json');
+    response.setHeader('Content-type', 'application/json');
     
     console.log("show user")
     response.write(JSON.stringify(request.params));
